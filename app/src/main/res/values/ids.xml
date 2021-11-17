@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="defaultColor" type="id"></item>
+    <item name="color8" type="id"></item>
+    <item name="color9" type="id"></item>
+    <item name="color10" type="id"></item>
+    <item name="color11" type="id"></item>
+    <item name="color12" type="id"></item>
+    <item name="erase_btn" type="id"></item>
+</resources>
